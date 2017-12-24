@@ -1,3 +1,3 @@
-# symfony-templete
+# symfony-template
 
-A sample/templete of Symfony 4.0.2 with Apache.
+A sample/template of Symfony 4.0.2 with Apache.
